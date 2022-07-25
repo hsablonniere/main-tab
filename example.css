@@ -1,0 +1,17 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  align-items: center;
+  box-sizing: border-box;
+  display: flex;
+  font-family: monospace;
+  justify-content: center;
+}
+
+a {
+  font-size: 2em;
+}

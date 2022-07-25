@@ -1,0 +1,5 @@
+* https://bugzilla.mozilla.org/show_bug.cgi?id=1649503
+* https://www.npmjs.com/package/broadcast-channel
+* https://github.com/KayleePop/only-one-tab/blob/master/only-one-tab.js
+* https://bundlephobia.com/package/only-one-tab@1.0.4
+* https://github.com/pubkey/broadcast-channel
